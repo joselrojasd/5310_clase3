@@ -8,3 +8,4 @@ repositorio de ejemplo creado en la clase 3 de la sección 5310
   <li>Ejecutar el comando git clone</li>
   <li>Crear una rama con nombre "test"</li>
 </ol>
+<img width="250px" src="https://cadif1.com/img/template/logo-cadif1.svg"/>
